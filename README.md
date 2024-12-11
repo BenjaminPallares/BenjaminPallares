@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on a special project made by the students of 2nd Bachillerato related tp the Philisophy subject.
+  This is a little exhibition of pictures and self protaits.
+
 <!--
 **BenjaminPallares/BenjaminPallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
